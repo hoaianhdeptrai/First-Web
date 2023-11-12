@@ -1,0 +1,14 @@
+.search{
+    border: 3px blue solid;
+    border-radius: 39px;
+    padding: 5px;
+    width: 100%;
+    height: 20px;
+    outline: none;
+}
+
+.header{
+    text-align: center;
+
+}
+
